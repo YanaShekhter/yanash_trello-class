@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.trello.qa.TeamCreationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-02T17:49:34" hostname="LAPTOP-CQ5N9KP6" time="4.685">
+  <properties/>
+  <testcase name="TeamCreationTests" classname="com.trello.qa.TeamCreationTests" time="4.685"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}) on port 29702
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1567446566.177][WARNING]: This version of ChromeDriver has not been tested with Chrome version 76.
+??? 02, 2019 8:49:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
